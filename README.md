@@ -1,2 +1,2 @@
 # 3mooRep
-this my littel repository
+this my Repo
